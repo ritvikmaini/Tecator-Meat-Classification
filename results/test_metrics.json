@@ -1,0 +1,30 @@
+{
+  "selected_model": "GaussianProcess (2nd deriv)",
+  "tuning": {
+    "model": "GaussianProcess (2nd deriv)",
+    "tuned": false
+  },
+  "test_metrics": {
+    "rmse": 1.224129630249669,
+    "mae": 0.8411700515557841,
+    "r2": 0.9897146533190705,
+    "sep": 1.086610602774266
+  },
+  "cv_best": {
+    "model": "GaussianProcess (2nd deriv)",
+    "rmse_mean": 0.7367847381083252,
+    "rmse_std": 0.33886067537971853,
+    "r2_mean": 0.995924734876304
+  },
+  "pls_scan": {
+    "raw_best_comp": 15,
+    "raw_best_rmse": 2.348774131717851,
+    "d2_best_comp": 17,
+    "d2_best_rmse": 2.4798247874662414
+  },
+  "fat_range": [
+    0.9,
+    49.1
+  ],
+  "n_samples": 215
+}

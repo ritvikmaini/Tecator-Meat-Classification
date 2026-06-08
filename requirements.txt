@@ -1,0 +1,18 @@
+# Runtime + dev dependencies for the Tecator NIR fat-regression project.
+# Pinned to >= the versions used to produce the results in results/.
+
+numpy>=2.3.1
+pandas>=3.0.3
+scikit-learn>=1.8.0
+scipy>=1.17.1
+matplotlib>=3.10.9
+seaborn>=0.13.2
+
+# Notebook + reporting
+jupyter>=1.1.1
+nbformat>=5.10.4
+nbconvert>=7.16.4
+tabulate>=0.9.0
+
+# Testing
+pytest>=8.0.0
